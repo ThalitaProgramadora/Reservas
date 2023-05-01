@@ -1,6 +1,6 @@
-# Reservas
-## Gerenciamento de
-## Recursos
+# Projeto de TCC
+## Gerenciamento deRecursos
+##
 ## Passo a passo
 ##Iniciamos baixando e tirando o projeto do zip
 ##instalar o intellij e o banco mysql server ou mysql shel
