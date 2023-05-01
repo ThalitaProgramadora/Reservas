@@ -1,5 +1,5 @@
 # Projeto de TCC
-## Gerenciamento deRecursos
+## Gerenciamento de Recursos
 ##
 ## Passo a passo
 ##Iniciamos baixando e tirando o projeto do zip
