@@ -1,10 +1,10 @@
 # Reservas
-##Gerenciamento de
-##Recursos
-##Passo a passo
-## Iniciamos baixando e tirando o projeto do zip
-## instalar o intellij e o banco mysql server ou mysql shel
-## Com tudo instalado abra o projeto no intellij e inicie o mysql server
+## Gerenciamento de
+## Recursos
+## Passo a passo
+##Iniciamos baixando e tirando o projeto do zip
+##instalar o intellij e o banco mysql server ou mysql shel
+##Com tudo instalado abra o projeto no intellij e inicie o mysql server
 ##no mysql server siga os passos.
 1)\connect root@localhost
    1.1)digite sua senha
