@@ -1,4 +1,7 @@
 # Reservas
+##Gerenciamento de
+##Recursos
+##Passo a passo
 ## Iniciamos baixando e tirando o projeto do zip
 ## instalar o intellij e o banco mysql server ou mysql shel
 ## Com tudo instalado abra o projeto no intellij e inicie o mysql server
